@@ -19,7 +19,7 @@ p {
 
 } 
 
-@media only screen and (max-width: 360px) {
+*/@media only screen and (max-width: 360px) {
     body {
         background: url(bakgrund.jpg);
         background-repeat: no-repeat;
@@ -41,4 +41,4 @@ p {
         padding: 40px 95px;
     }
 
-}
+} */
