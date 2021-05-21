@@ -16,6 +16,6 @@ document.getElementById("para").innerHTML = days + " Dagar " + hours + " Timmar 
 //när countdown är klar skriv ut
 if (distance < 0) {
     clearInterval(x);
-    document.getElementById("para").innerHTML = "Om du läser detta, gratis! Du klarade det. Du är nu examinerad .NET webbutvecklare!!! GRATTIS!";
+    document.getElementById("para").innerHTML = "Om du läser detta, grattis! Du klarade det. Du är nu examinerad .NET webbutvecklare!!! GRATTIS!";
 }
 }, 1000);
